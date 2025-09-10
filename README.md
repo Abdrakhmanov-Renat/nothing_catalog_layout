@@ -14,7 +14,7 @@ Experiance the live website:
 1. Clone the repository:
 ```bash
   git clone https://github.com/Abdrakhmanov-Renat/nothing_catalog_layout.git
-  cd project-name
+  cd nothing_catalog_layout
 ```
 2. Install dependencies:
 ```bash
