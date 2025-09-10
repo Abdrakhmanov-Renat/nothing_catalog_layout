@@ -13,7 +13,7 @@ Experiance the live website:
 
 1. Clone the repository:
 ```bash
-  git clone https://github.com/your-username/project-name.git
+  git clone https://github.com/Abdrakhmanov-Renat/nothing_catalog_layout.git
   cd project-name
 ```
 2. Install dependencies:
